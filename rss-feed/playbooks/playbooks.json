@@ -3,7 +3,7 @@
   "data": [
     {
       "@type": "WorkflowCollection",
-      "name": "Sample - RSS Feed - 1.0.0",
+      "name": "Sample - RSS Feed - 1.1.0",
       "description": "Sample playbooks for \"RSS Feed\" connector. If you are planning to use any of the sample playbooks in your environment, ensure that you clone those playbooks and move them to a different collection, since the sample playbook collection gets deleted during connector upgrade and delete.",
       "visible": true,
       "image": null,
@@ -245,7 +245,7 @@
                 "params": {
                   "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
                 },
-                "version": "1.0.0",
+                "version": "1.1.0",
                 "connector": "rss-feed",
                 "operation": "get_indicators",
                 "operationTitle": "Get Indicators",
@@ -405,7 +405,7 @@
                 "params": {
                   "url": "{{vars.url}}"
                 },
-                "version": "1.0.0",
+                "version": "1.1.0",
                 "connector": "rss-feed",
                 "operation": "get_indicators",
                 "operationTitle": "Get Indicators",
