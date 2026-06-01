@@ -6,7 +6,7 @@
   "publisher": "Fortinet",
   "cs_approved": true,
   "cs_compatible": true,
-  "help_online": "",
+  "help_online": "https://docs.fortinet.com/document/fortisoar/1.1.0/rss-feed/110/rss-feed-v1-1-0",
   "icon_small_name": "small.png",
   "icon_large_name": "large.png",
   "category": "Threat Intelligence",
